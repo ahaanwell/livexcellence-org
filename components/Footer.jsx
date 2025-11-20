@@ -109,9 +109,9 @@ const Footer = () => {
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-400">
           <p>© 2025 Livexcellence. All rights reserved.</p>
           <div className="flex gap-6">
-            <a href="/privacy" className="hover:text-white transition-colors">Privacy</a>
-            <a href="/terms" className="hover:text-white transition-colors">Terms</a>
-            <a href="/cookies" className="hover:text-white transition-colors">Cookies</a>
+            <a href="/privacy-policy" className="hover:text-white transition-colors">Privacy</a>
+            <a href="/terms-conditions" className="hover:text-white transition-colors">Terms</a>
+            <a href="/refund-policy" className="hover:text-white transition-colors">Refund Policy</a>
           </div>
         </div>
 
